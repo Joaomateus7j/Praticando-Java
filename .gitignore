@@ -1,1 +1,2 @@
 /out/
+git rm -r --cached out/
