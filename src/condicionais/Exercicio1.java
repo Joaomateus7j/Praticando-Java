@@ -3,7 +3,21 @@ package condicionais2;
 public class Exercicio1 {
     public static void main(String[] args) {
 
-        String teste2 = "Estou testando e criando minha pasta de váriavel, ";
-        System.out.println(teste2);
+        // Desafio do aluno
+
+        double nota = 5;
+        String aluno;
+
+        if(nota >= 7){
+            aluno = ("Aluno aprovado");
+        }
+        else{
+            aluno = ("Aluno reprovado");
+        }
+
+        System.out.println(aluno);
+
+
+
     }
 }
