@@ -8,15 +8,13 @@ public class Exercicio1 {
         double nota = 5;
         String aluno;
 
-        if(nota >= 7){
+        if (nota >= 7) {
             aluno = ("Aluno aprovado");
-        }
-        else{
+        } else {
             aluno = ("Aluno reprovado");
         }
 
         System.out.println(aluno);
-
 
 
     }
