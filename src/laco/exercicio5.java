@@ -12,9 +12,6 @@ public class exercicio5 {
 
         }
 
-        
-
-
 
     }
 }
