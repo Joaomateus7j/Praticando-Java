@@ -8,7 +8,7 @@ public class exercicio8 {
 
         while (valorRestante >= 20) {
             valorRestante-= 20;
-            
+
 
         }
         System.out.println(valorRestante);
