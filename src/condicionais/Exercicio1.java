@@ -6,7 +6,7 @@ public class Exercicio1 {
         String nome = "Testando ";
 
         System.out.println(nome);
-        
+
 
 
     }
